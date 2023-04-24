@@ -1,0 +1,19 @@
+.col-2{
+    width: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    box-shadow: 4px 4px;
+}
+.editor{
+    height: 600px;
+    margin-top: 20px;
+    border: solid 2px skyblue;
+    margin-left: 100px;
+}
+.colorRed{
+    color:red;
+}
+.underLine{
+    text-decoration: underline;
+}
